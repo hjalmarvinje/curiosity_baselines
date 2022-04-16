@@ -8,8 +8,12 @@ plots
 heatmap*
 images
 
+
+# Mac ignores
+**/.DS_Store/*
+
 # Results directory, and mujoco key
-/results/
+# /results/
 mjkey.txt
 
 # HPC Launch files and logs
