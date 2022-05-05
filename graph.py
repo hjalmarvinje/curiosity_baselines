@@ -11,9 +11,3 @@ sns.set_theme(style="darkgrid")
 
 sns.lineplot(data = df, ci= 'sd')
 plt.show()
-#print(df['Diagnostics/Iteration'], df['GameScore/Average'])
-#plt.plot(df['Diagnostics/Iteration'], df['GameScore/Average'])
-#plt.xlabel('Iteration')
-#plt.ylabel('GameScore/Average')
-#plt.show()
-
